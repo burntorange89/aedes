@@ -8,7 +8,7 @@ Barebone MQTT server that can run on any stream server.
 * [Example](#example)
 * [API](#api)
 * [TODO](#todo)
-* [Acknowledgements](#acknowledgements)
+* [Acknowledgements](#acknowledgements) 
 * [License](#license)
 
 
